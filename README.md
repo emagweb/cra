@@ -1,3 +1,5 @@
+### test branch
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -340,3 +342,8 @@ Note: I specified the avatars using HTML because, when I did so using Markdown,
 </a>
 
 This list is maintained manually—for now—and includes (a) each person who submitted a pull request that was eventually merged into `master`, and (b) each person who contributed in a different way (e.g. providing constructive feedback) and who approved of me including them in this list.
+
+
+------------------------
+npm i --legacy-peer-deps
+------------------------
